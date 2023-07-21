@@ -1,9 +1,9 @@
 
 ### Hi there 👋👋
-#### <span style="font-size: 8px;"> I'm Letina Rodric</span>
-#### I am a developer with a deep love for tweaking things.🙂
+#### <span style="font-size: 8px;"> I'm Rodric Letina </span>
+#### a developer with a deep love for tweaking things.🙂
 #### 🔭 I’m currently working on a building ecommerce projects at [Techcamp Africa](https://techcamp.co.ke/)
-#### I’m currently learning at [Chuka University](https://www.chuka.ac.ke) a 4th year student pursuing bachelor of science in computer science
+#### currently learning at [Chuka University](https://www.chuka.ac.ke) a 4th year student pursuing bachelor of science in computer science
 
 
 
