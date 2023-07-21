@@ -3,7 +3,7 @@
 #### <span style="font-size: 8px;">Hello, I'm Letina Rodric</span>
 #### I am a developer with a deep love for tweaking things.🙂
 #### 🔭 I’m currently working on [Techcamp Africa](https://techcamp.co.ke/)
-#### I’m currently learning at [Chuka University](https://www.chuka.ac.ke)
+#### I’m currently learning at [Chuka University](https://www.chuka.ac.ke) a 4th year student pursuing bachelor of science in computer science
 
 
 
