@@ -1,9 +1,15 @@
+<h2><strong>LETINA RODERICK SANDAIYA</strong></h2>
 
 ### Hi there 👋👋
-#### <span style="font-size: 8px;"> I'm Rodric Letina </span>
+#### <span style="font-size: 8px;"> call me Rodric </span>
 #### a developer with a deep love for tweaking things.🙂
 #### 🔭 I’m currently working on a building ecommerce projects at [Techcamp Africa](https://techcamp.co.ke/)
 #### currently learning at [Chuka University](https://www.chuka.ac.ke) a 4th year student pursuing bachelor of science in computer science
+
+
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 
 
@@ -26,7 +32,12 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 
+
+
+
 #### a full stack developer
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -36,6 +47,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=letinarodric22&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
