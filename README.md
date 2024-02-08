@@ -4,7 +4,7 @@
 #### <span style="font-size: 8px;"> call me Rodric </span>
 #### a developer with a deep love for tweaking things.🙂
 #### 🔭 I’m currently working at [Esipilcenter Africa](https://esipilcenter.com/)
-#### currently learning at [Chuka University](https://www.chuka.ac.ke) a 4th year student pursuing bachelor of science in computer science
+#### Graduated from [Chuka University](https://www.chuka.ac.ke) with a degree in computer science.
 
 
 
