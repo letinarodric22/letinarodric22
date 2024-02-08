@@ -28,6 +28,24 @@
 
 #### a full stack developer
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/steve-leo254">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=letinarodric22&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=letinarodric22&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/letina-sandaiya-94ab37223/"><img src="https://img.shields.io/badge/-letina-sandaiya-94ab37223?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="letinaroderick@gmail.com"><img src="https://img.shields.io/badge/-letinaroderick@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/mr_sandaiya/"><img src="https://img.shields.io/badge/-Sandaiya Letinah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/Sandaiya-Letinah/"><img src="https://img.shields.io/badge/Sandaiya Letinah-E4405F?style=flat&logo=facebook&logoColor=white"/></a>
+</p>
+
 <!--
 **letinarodric22/letinarodric22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
