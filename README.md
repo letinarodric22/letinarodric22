@@ -52,8 +52,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/letina-sandaiya-94ab37223/"><img src="https://img.shields.io/badge/-letina-sandaiya-94ab37223?style=flat&logo=Linkedin&logoColor=white"/></a>
+<p align="center" background-color="aqua";>
 <a href="letinaroderick@gmail.com"><img src="https://img.shields.io/badge/-letinaroderick@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/mr_sandaiya/"><img src="https://img.shields.io/badge/-Sandaiya Letinah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/Sandaiya-Letinah/"><img src="https://img.shields.io/badge/Sandaiya Letinah-E4405F?style=flat&logo=facebook&logoColor=white"/></a>
